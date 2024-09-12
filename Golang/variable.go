@@ -11,4 +11,12 @@ func main() {
 
 	name = "luqman"
 	fmt.Println(name)
+
+
+	var aldi = 1
+	fmt.Println(aldi)
+
+
+	coba := "aldi"
+	fmt.Println(coba)
 }
