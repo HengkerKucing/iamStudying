@@ -7,7 +7,10 @@ func getFullName() (string, string) {
 }
 
 func main() {
-	firstName, lastname := getFullName()
-	fmt.Println(firstName, lastname)
+	// firstName, lastname := getFullName()
+	// fmt.Println(firstName, lastname)
+
+	firstName, _ := getFullName()
+	fmt.Println(firstName)
 }
  
