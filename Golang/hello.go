@@ -4,7 +4,7 @@ import ("fmt")
 func main() {
 
   var a string
-  var b int
+  var b int 
   var c bool
 
   a = "halo"

@@ -12,4 +12,10 @@ func main() {
 
 	fmt.Println(name[0])
 	fmt.Println(name[1])
+
+	var saya = [...]int {
+		90, 80, 40 }
+
+	fmt.Println(saya)
+	fmt.Println(len(saya))
 }
